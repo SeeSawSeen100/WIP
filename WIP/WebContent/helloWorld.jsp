@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Titte(l) (.Y.)</title>
 </head>
 <body>
 	<div style="width:500px;height:300px;background-color:black;color:white;font-weight:bold;font-size:28px;">
-		Mein Inhalt
+		Titte(l) (.Y.)
 	</div>
 </body>
 </html>
