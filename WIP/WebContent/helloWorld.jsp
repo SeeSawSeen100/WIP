@@ -9,6 +9,10 @@
 <body>
 	<div style="width:500px;height:300px;background-color:black;color:white;font-weight:bold;font-size:28px;">
 		Titte(l) (.Y.)
+		<br><br>
+		<%
+			out.print("<h1>"+ "Baum" +"</h1>");
+		 %>
 	</div>
 </body>
 </html>
