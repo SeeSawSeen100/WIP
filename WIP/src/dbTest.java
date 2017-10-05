@@ -1,11 +1,7 @@
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.ResultSet;
-import java.sql.ResultSet;
-import java.sql.Statement;
-import java.util.Vector;
-import java.sql.Date;
+import java.sql.*;
+
+//https://jaxenter.de/mysql-und-java-jdbc-einrichten-8180
+//Da steht hoffentlich alles
 
 public class dbTest {
 	
