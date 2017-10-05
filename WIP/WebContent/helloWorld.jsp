@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div style="width:500px;height:300px;background-color:black;color:white;font-weight:bold;font-size:28px;">
-		Titte(l) (.Y.)
+		Titte(l) (.Y.) 
 	</div>
 </body>
 </html>
