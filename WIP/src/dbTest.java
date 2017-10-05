@@ -9,7 +9,7 @@ public class dbTest {
 
 class IOManager{
 	Connection connection;
-	 
+	
 	public IOManager() {
 	 
 	}
