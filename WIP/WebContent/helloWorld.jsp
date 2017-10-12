@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-<%@ page import="main.*" %>
+<%@ page import="main.IOManager" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -13,10 +13,8 @@
 	<div class="testDiv">
 		<h1>
 			<%
-				//IOManager test = new IOManager();
-				//String t = test.test();
-				String t = "Hallo";
-				
+				IOManager test = new IOManager();
+				String t = test.test();				
 				out.print(t);
 			 %>
 		</h1>		
