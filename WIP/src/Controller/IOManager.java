@@ -1,4 +1,4 @@
-package main;
+package Controller;
 import java.sql.*;
 
 //https://jaxenter.de/mysql-und-java-jdbc-einrichten-8180
